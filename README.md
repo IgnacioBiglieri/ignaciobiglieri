@@ -4,7 +4,7 @@
 
 I'm from Buenos Aires, Argentina. I'm a web developer, and I love learning and applying new technologies in my projects. I'm always looking to improve and find creative solutions to problems.
 
-🔭 I'm currently studying to become a Programming Analyst, using:
+🔭 I'm studying at university to become a Programming Analyst, using:
 
 <div align="left"> 
     <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
@@ -30,7 +30,7 @@ Outside of technology, I enjoy playing video games 🎮, listening to music 🎵
     <img src="https://api.iconify.design/simple-icons/zod.svg" height="40" alt="zod logo" /> 
 </div>
 
-## 👨🏻‍💻 Building an eCommerce using
+## 👨🏻‍💻 Currently, building an eCommerce using
 
 <div align="left"> 
     <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
