@@ -69,6 +69,7 @@ Outside of technology, I enjoy playing video games 🎮, listening to music 🎵
 </div>
 
 ### 🛠 Tools
+
 <div align="left">
     <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo" /> 
     <img width="12" /> 
@@ -78,7 +79,7 @@ Outside of technology, I enjoy playing video games 🎮, listening to music 🎵
     <img width="12" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> 
     <img width="12" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> 
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
     <img width="12" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
     <img width="12" /> 
@@ -86,6 +87,7 @@ Outside of technology, I enjoy playing video games 🎮, listening to music 🎵
 </div>
 
 ### 🤳 Design and Communication
+
 <div align="left">
     <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo" /> 
     <img width="12" /> 
@@ -94,14 +96,13 @@ Outside of technology, I enjoy playing video games 🎮, listening to music 🎵
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" /> 
 </div>
 
-
 <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgnacioBiglieri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="148" alt="languages graph" /> 
 </div>
 
 <div align="center">
 
- ### Contact
+### Contact
 
  <a href="https://www.linkedin.com/in/ignaciobiglieri/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin" /> 
